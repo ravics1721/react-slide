@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-slide/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-slide/static/js/main.e6deed25.chunk.js",
+    "main.js.map": "/react-slide/static/js/main.e6deed25.chunk.js.map",
+    "runtime-main.js": "/react-slide/static/js/runtime-main.2efa2cf7.js",
+    "runtime-main.js.map": "/react-slide/static/js/runtime-main.2efa2cf7.js.map",
+    "static/js/2.7ce6e6d8.chunk.js": "/react-slide/static/js/2.7ce6e6d8.chunk.js",
+    "static/js/2.7ce6e6d8.chunk.js.map": "/react-slide/static/js/2.7ce6e6d8.chunk.js.map",
+    "index.html": "/react-slide/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-slide/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7ce6e6d8.chunk.js.LICENSE.txt": "/react-slide/static/js/2.7ce6e6d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2efa2cf7.js",
+    "static/js/2.7ce6e6d8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e6deed25.chunk.js"
+  ]
+}
